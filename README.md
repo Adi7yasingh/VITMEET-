@@ -1,1 +1,1 @@
-VitMEET
+VITMEET
