@@ -1,1 +1,1 @@
-VITMEET
+VITMEET (Academic project)
